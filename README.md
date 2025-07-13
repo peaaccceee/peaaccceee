@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @peaaccceee
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Fullstack Development 
 - 🌱 I’m currently learning Frontend development 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm also a guitarist!😊
+- ⚡ Fun fact: I'm a guitarist!😊
 
 <!---
 peaaccceee/peaaccceee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
