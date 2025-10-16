@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peace
 - 👀 I’m interested in Fullstack Development 
-- 🌱 I’m currently learning Frontend development 
+- 🌱 I’m currently learning Backend Development 
 - 😄 Pronouns: She/her
 
 <!---
