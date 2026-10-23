@@ -1,9 +1,3 @@
 - 👋 Hi, I’m Peace
-- 👀 I’m interested in Fullstack Development 
-- 🌱 I’m currently learning Backend Development 
-- 😄 Pronouns: She/her
-
-<!---
-peaaccceee/peaaccceee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Nice to meet you.
+- <!---peaaccceee/peaaccceee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
